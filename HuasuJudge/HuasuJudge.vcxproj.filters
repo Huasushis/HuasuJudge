@@ -36,6 +36,12 @@
     <ClInclude Include="getres.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="unzip.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="judge.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="HuasuJudge.cpp">
@@ -45,6 +51,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="pch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unzip.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
